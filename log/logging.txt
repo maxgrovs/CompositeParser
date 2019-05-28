@@ -1,0 +1,30 @@
+2019-05-24 15:34:30 DEBUG Main:14 - TEST!!! main
+2019-05-24 15:36:10 DEBUG Main:14 - TEST!!! main
+2019-05-24 15:48:37 DEBUG Main:14 - TEST!!! main
+2019-05-24 16:49:35 DEBUG Main:15 - TEST!!! main
+2019-05-24 16:50:10 DEBUG Main:16 - TEST!!! main
+2019-05-24 16:51:41 DEBUG Main:16 - TEST!!! main
+2019-05-24 16:58:53 DEBUG Main:16 - TEST!!! main
+2019-05-24 16:59:47 DEBUG Main:16 - TEST!!! main
+2019-05-24 17:00:35 DEBUG Main:16 - TEST!!! main
+2019-05-24 17:03:42 DEBUG Main:17 - TEST!!! main
+2019-05-24 17:04:48 DEBUG Main:17 - TEST!!! main
+2019-05-24 17:07:55 DEBUG Main:17 - TEST!!! main
+2019-05-24 17:08:20 DEBUG Main:17 - TEST!!! main
+2019-05-24 17:08:53 DEBUG Main:17 - TEST!!! main
+2019-05-24 17:09:33 DEBUG Main:17 - TEST!!! main
+2019-05-24 17:15:35 DEBUG Main:17 - TEST!!! main
+2019-05-24 18:40:14 DEBUG Main:17 - TEST!!! main
+2019-05-24 18:40:55 DEBUG Main:17 - TEST!!! main
+2019-05-24 18:41:17 DEBUG Main:17 - TEST!!! main
+2019-05-24 18:41:42 DEBUG Main:17 - TEST!!! main
+2019-05-24 18:47:51 DEBUG Main:17 - TEST!!! main
+2019-05-24 20:15:53 DEBUG Main:21 - TEST!!! main
+2019-05-24 20:16:24 DEBUG Main:21 - TEST!!! main
+2019-05-24 20:38:11 DEBUG Main:21 - TEST!!! main
+2019-05-24 20:56:58 WARN  TextReader:16 - wrong path text path is uncorrect!!! Changed to default path.
+2019-05-24 20:57:07 WARN  TextReader:16 - wrong path text path is uncorrect!!! Changed to default path.
+2019-05-24 20:58:00 WARN  TextReader:16 - wrong path text path is uncorrect!!! Changed to default path.
+2019-05-24 20:58:54 DEBUG Main:21 - TEST!!! main
+2019-05-24 21:13:51 WARN  TextReader:16 - wrong path text path is uncorrect!!! Changed to default path.
+2019-05-28 02:53:24 WARN  TextReader:16 - wrong path text path is uncorrect!!! Changed to default path.
